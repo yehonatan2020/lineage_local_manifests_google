@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/google/panther" fetch="https://github.com" name="LineageOS/android_device_google_panther" revision="lineage-21" />
+  <project path="device/google/pantah" fetch="https://github.com" name="yehonatan2020/lineage_device_google_pantah" revision="lineage-21" />
+  <project path="device/google/gs201" fetch="https://github.com" name="yehonatan2020/lineage_device_google_gs201" revision="lineage-21" />
+  <project path="device/google/gs101" fetch="https://github.com" name="yehonatan2020/lineage_device_google_gs101" revision="lineage-21" />
+  <project path="kernel/google/gs201/private/gs-google" fetch="https://github.com" name="yehonatan2020/Starlite_kernel_gs201" revision="lineage-21" />
+  <project path="device/google/gs-common" fetch="https://github.com" name="LineageOS/android_device_google_gs-common" revision="lineage-21" />
+</manifest>
