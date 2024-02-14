@@ -6,4 +6,8 @@
   <project path="device/google/gs101" fetch="https://github.com" name="yehonatan2020/lineage_device_google_gs101" revision="lineage-21" />
   <project path="kernel/google/gs201/private/gs-google" fetch="https://github.com" name="yehonatan2020/Starlite_kernel_gs201" revision="lineage-21" />
   <project path="device/google/gs-common" fetch="https://github.com" name="LineageOS/android_device_google_gs-common" revision="lineage-21" />
+  <project path="vendor/google/panther" fetch="https://github.com" name="yehonatan2020/lineage_vendor_google_panther" revision="lineage-21" />
+  <project path="vendor/google/cheetah" fetch="https://github.com" name="yehonatan2020/lineage_vendor_google_cheetah" revision="lineage-21" />
+  <project path="vendor/google/lynx" fetch="https://github.com" name="yehonatan2020/lineage_vendor_google_lynx" revision="lineage-21" />
+
 </manifest>
